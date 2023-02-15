@@ -1,21 +1,7 @@
-# Vite React Tailwind Template
+# Vite React Tailwind Template with reference tailwindcss config in JS files.
 
-This template provide toolchain below:
+A Template for reference tailwind configs in JS files.
 
-- Vite
-- React, ReactDOM
-- ESLint
-- Prettier
-- Git Hook (Husky, Lint Staged)
-- TailwindCSS 3
+**Pay Attention**
 
-# Usage
-
-```sh
-pnpm i
-pnpm dev
-```
-
-# Screenshot
-
-![](https://i.imgur.com/ftvsXYB.png)
+Using the tailwind configs will increase the build size by 200+ kb. 
